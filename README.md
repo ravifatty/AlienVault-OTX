@@ -1,5 +1,4 @@
 # AlienVault-OTX
-OTX API
 Python script for AlienVault OTX v2 API
 # Usage
 Before using script put your API key inside the script
