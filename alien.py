@@ -2,13 +2,13 @@
 Python 3
 OTX API v2.0
 
-__author__ = "Tomasz Aniszewski"
-__copyright__ = "Copyright 2018, Tomasz Aniszewski"
+__author__ = "Erlopek"
+__copyright__ = "Copyright 2018, Erlopek"
 __license__ = "Apache License"
-__version__ = "1.0.0"
-__maintainer__ = "Tomasz Aniszewski"
+__version__ = "1.0.1"
+__maintainer__ = "Erlopek"
 __email__ = "33432468+Erlopek@users.noreply.github.com"
-__status__ = "Prototype"
+__status__ = "Beta"
 
 """
 
